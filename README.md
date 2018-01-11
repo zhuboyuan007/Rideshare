@@ -1,2 +1,0 @@
-# rideshare
-Rideshare Project

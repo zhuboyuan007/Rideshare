@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/zhuboyuan/git/rideshare/node_modules/react-native/Libraries/Image/RCTImageShadowView.m \
+  /Users/zhuboyuan/git/rideshare/node_modules/react-native/Libraries/Image/RCTImageShadowView.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/zhuboyuan/git/rideshare/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_1385706e5c275213819b60369702747bf6e03b85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_2780f14e4c99c7bbc99f37b896d6a6686194a72b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_f709358b22dbfbd0ee16b41af72395b9848eca48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_4970d1d402dc961b123acd28f31f80beda9b2d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.4_2de0337e525d1bd2d29225feadcf80e59e45aa43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_be04b5bbbeb80368fff216d71ff1bbde626987cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_20fb7099c785a3e02e5e77dee8dcefcf9d33ad9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_b49f5c798dba24549a0c796f4e1c8b53d350b410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_80a31f4fe228537600ecc81e358b5703dcc7fbd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/RideShare/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f1bc91e62390fc6674c487adcf7ad3688f45fa8b">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/RideShare-react-native-maps-unspecified_8528619f01394dce0b792f0efb26e9c8221ddd98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.1_9c5ee7d22a7764792eff705d8444176ccc0ae2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_24a49ab2d0e7d935dbd48e6389ef8a9123b2ad32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b8e45cdb3c66aa60e9afedd4726c72c71e2c6b98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_5a01222ef2707270b4e3f98e9f38e1581a9aee79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_38f7f6b9de947e2fcb3dfbb97fe4de3b39033f10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/RideShare/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/RideShare-react-native-vector-icons-unspecified_8d66238cc491c9b3347ce39d4ec4dc14eabdd839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_12d18f543a9e27e9d44ca5ad3223827256faecd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_0874c30f50cb40f085f972fcfeb3880ad8f0e031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.4_b7bef915e4449ec910e8a3181f2f1a2be04e6a48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_f890b7a165b6e02246a1defc787a4c901e5bf6af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_8730909457138123f10a41dc011fceacfbdfdd04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_74d4517e98edb225d865b22204e305f35c20339c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.4_48b6c525900eafc67a52e21896b23c16183cfa4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_8a51a1dafaa3769217066fb24f4f4839d5c61f28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_7853a048f4e9db746d1bde0f52baf80a886b8c8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_8c4526a685cab0c1a6b51c89f803676392f94099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_334d2a9f8219a559233f233d91afb3dc33c7cdc0.jar" />
+    </item>
+
+</items>
