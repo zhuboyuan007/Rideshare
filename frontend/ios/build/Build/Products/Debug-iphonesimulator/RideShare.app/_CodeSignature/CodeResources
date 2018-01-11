@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		O/iKUFz3RiIHpejqZ1MjIICRcQM=
+		mHcWbTXD68kVXcBkXAQEVZjIpF8=
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -71,7 +71,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		A8ke7U3K7ar8ht3UDmxdPjfIrRY=
+		rKJwAXTfSfpN5+NFTb/cCYufwCQ=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -79,7 +79,7 @@
 		</data>
 		<key>MaterialCommunityIcons.ttf</key>
 		<data>
-		iEMpKSoaB/KiSnpQryZBH+pXuYo=
+		qsYaaEAlreJgw0cwmpP4T0ugnSE=
 		</data>
 		<key>MaterialIcons.ttf</key>
 		<data>
@@ -103,15 +103,15 @@
 		</data>
 		<key>PlugIns/RideShareTests.xctest/Info.plist</key>
 		<data>
-		JI3BggXtiOPf+uJo/eqe+BFH9fA=
+		Gr/Db9GbP/YU1vOcgcxUlcfDpP4=
 		</data>
 		<key>PlugIns/RideShareTests.xctest/RideShareTests</key>
 		<data>
-		53rwKUpxpKLHTWbKjrOg+d4sDpk=
+		QA0ap2ta+w6klWY34k7xJcNIWwk=
 		</data>
 		<key>PlugIns/RideShareTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		jQT3cZZy3Rs0VoCtQ4EzCJtXjig=
+		q1Up366Rbk0OVxfbjmA4udJOF/c=
 		</data>
 		<key>Roboto.ttf</key>
 		<data>
@@ -140,11 +140,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O/iKUFz3RiIHpejqZ1MjIICRcQM=
+			mHcWbTXD68kVXcBkXAQEVZjIpF8=
 			</data>
 			<key>hash2</key>
 			<data>
-			lsW5PE8EORtzsbqMjDABkkRsYzUcrBqF9l31cJz4JqY=
+			WK/7U85bHK/7EZ+b1n4w/uHCcYCJVvh381of+qwa0zE=
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
@@ -318,11 +318,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iEMpKSoaB/KiSnpQryZBH+pXuYo=
+			qsYaaEAlreJgw0cwmpP4T0ugnSE=
 			</data>
 			<key>hash2</key>
 			<data>
-			1bSKsbDzuZUQE0oDJhp+sgYYtyyRBwyCUcQIAoyRcm4=
+			q9ds9276vErG0wDQjAHtvPQadpxhrJDfPQ8UGJDid2g=
 			</data>
 		</dict>
 		<key>MaterialIcons.ttf</key>
@@ -373,33 +373,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JI3BggXtiOPf+uJo/eqe+BFH9fA=
+			Gr/Db9GbP/YU1vOcgcxUlcfDpP4=
 			</data>
 			<key>hash2</key>
 			<data>
-			4upMwl54dcRJwgqDYOHgYS4FGJJNOxmdPRd6MVePsdg=
+			KFBDSf0xoB5dEkG7LbOqQ+TM7XZxJgUJ/UtGorkLMEY=
 			</data>
 		</dict>
 		<key>PlugIns/RideShareTests.xctest/RideShareTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			53rwKUpxpKLHTWbKjrOg+d4sDpk=
+			QA0ap2ta+w6klWY34k7xJcNIWwk=
 			</data>
 			<key>hash2</key>
 			<data>
-			h+SgBNiHA240LBDqA2D9pzHdX42RQPETaE6s3SJ4WDA=
+			WTkd0D2tEw/06C7r77jsjnW49WD5Xxmqf0olEg6YlpM=
 			</data>
 		</dict>
 		<key>PlugIns/RideShareTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jQT3cZZy3Rs0VoCtQ4EzCJtXjig=
+			q1Up366Rbk0OVxfbjmA4udJOF/c=
 			</data>
 			<key>hash2</key>
 			<data>
-			D/b0C3HOR0UHOvQ3ssclZdKhFFWWhVaJB7/3H6n55Dw=
+			rRjyQ8qjZonC7OE3RwoOhPXghGmn4kwGRlMkGppCFGE=
 			</data>
 		</dict>
 		<key>Roboto.ttf</key>

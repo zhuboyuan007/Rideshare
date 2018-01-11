@@ -1,2 +1,3 @@
-dependencies: /Users/zhuboyuan/git/rideshare/ios/RideShare/main.m \
-  /Users/zhuboyuan/git/rideshare/ios/RideShare/AppDelegate.h
+dependencies: \
+  /Users/zhuboyuan/git/rideshare_mine/frontend/ios/RideShare/main.m \
+  /Users/zhuboyuan/git/rideshare_mine/frontend/ios/RideShare/AppDelegate.h
