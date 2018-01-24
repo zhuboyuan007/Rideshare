@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
         "merged": "/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
         "source": "/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
@@ -8,12 +12,32 @@
         "source": "/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
+        "merged": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_disabled_color_18.png",
         "source": "/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
         "source": "/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/src_images_speedcar.jpg",
+        "source": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/src/main/res/drawable-mdpi/src_images_speedcar.jpg"
+    },
+    {
+        "merged": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_standard_color_18.png",
@@ -26,5 +50,9 @@
     {
         "merged": "/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
         "source": "/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
     }
 ]

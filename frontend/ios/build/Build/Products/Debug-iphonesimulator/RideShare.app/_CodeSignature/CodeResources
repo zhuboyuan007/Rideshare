@@ -30,31 +30,31 @@
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
-		uJ8dPaHt75z19ijs08lkugHq/RA=
+		ooz0sIAaLKBGoFU5iKq8DR11NmY=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
 		<data>
-		JBrL6En4QJlYoMl3malqnJmn+O8=
+		R/knOPjsjrJNiVtUa2S4kYE749M=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
 		<data>
-		dbDeE0h2Hr7N2KnFoER4aHgVj90=
+		qcVgsOCxIzxwcNXLWXgRrNjnuT8=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
 		<data>
-		6TSFXZwgmlONmxMDFLs4kWApLLU=
+		K7jOt4uC+lqy/StneXlQVk21axY=
 		</data>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<data>
-		VSLVXbhCV5mDC5jgqIEaBXF4Kbw=
+		CYfyvPIGUR84QvCD7SuNDvG6Bxc=
 		</data>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<data>
-		GppB8PhBSInv7zFg7eYcqNwZWXQ=
+		M3EBma1BpAxt7iGIjYcrm9BnNOc=
 		</data>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
 		<data>
-		v6itdPCqWnawODUfQYc+nRyGDJY=
+		5EUn1qFgVTwSkfSLCubcLwgrx0c=
 		</data>
 		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
 		<dict>
@@ -67,11 +67,11 @@
 		</dict>
 		<key>Frameworks/XCTest.framework/version.plist</key>
 		<data>
-		iStWmEB1q6TTpoeht5O8TSdKtb0=
+		Etc/8BPenX54rv1uBx24u4bnqTg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rKJwAXTfSfpN5+NFTb/cCYufwCQ=
+		/VcK6SZSenhaxC3AZ3u2L8t18EY=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -99,19 +99,19 @@
 		</data>
 		<key>PlugIns/RideShareTests.xctest.dSYM/Contents/Resources/DWARF/RideShareTests</key>
 		<data>
-		V0oQofBcZe18leLBfE4dwztLkUc=
+		Ck/HDbVOc9Efw1gkM2Vkro8NyQU=
 		</data>
 		<key>PlugIns/RideShareTests.xctest/Info.plist</key>
 		<data>
-		Gr/Db9GbP/YU1vOcgcxUlcfDpP4=
+		oszmsZTCVuzf7zgPIk6zTN0zu2o=
 		</data>
 		<key>PlugIns/RideShareTests.xctest/RideShareTests</key>
 		<data>
-		QA0ap2ta+w6klWY34k7xJcNIWwk=
+		R5WX6jvpo3UzhjgfN3J2mlsGsA8=
 		</data>
 		<key>PlugIns/RideShareTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		q1Up366Rbk0OVxfbjmA4udJOF/c=
+		iw32CBB+I/ExQ3v6OP+fkN3dJSQ=
 		</data>
 		<key>Roboto.ttf</key>
 		<data>
@@ -206,77 +206,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uJ8dPaHt75z19ijs08lkugHq/RA=
+			ooz0sIAaLKBGoFU5iKq8DR11NmY=
 			</data>
 			<key>hash2</key>
 			<data>
-			d6d8CZAcM6Kdjf0zJpNR/lLlm1JBIL+jo73yQnC1M8w=
+			QTZkTlnemyTcrFMb3v3GdQcfmpRodaOjtevd5TjxiiY=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JBrL6En4QJlYoMl3malqnJmn+O8=
+			R/knOPjsjrJNiVtUa2S4kYE749M=
 			</data>
 			<key>hash2</key>
 			<data>
-			J/Q7YarUOESTurbho30IqTRcE6OiUWHnLdfDSMUbyIs=
+			wLDjbULmM78l0rN5jh2/yPax234qVZL29OQBQmdYmOU=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dbDeE0h2Hr7N2KnFoER4aHgVj90=
+			qcVgsOCxIzxwcNXLWXgRrNjnuT8=
 			</data>
 			<key>hash2</key>
 			<data>
-			br5JnbDDYJqW9qsLElibwrloxLI/qAE+fWw2nPP0c5Y=
+			ZARlo4LD/z4nYhaCEocjb6nPjuZDCrLsQzn0n4GVr3s=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6TSFXZwgmlONmxMDFLs4kWApLLU=
+			K7jOt4uC+lqy/StneXlQVk21axY=
 			</data>
 			<key>hash2</key>
 			<data>
-			LZ1ASodl//MKBSICK68FJm/CdWCR8khtshgaFC/ieak=
+			VzM0aDQjkmLy+IyPasdn9DeGkOOTuNMbKUMz+3efAaU=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VSLVXbhCV5mDC5jgqIEaBXF4Kbw=
+			CYfyvPIGUR84QvCD7SuNDvG6Bxc=
 			</data>
 			<key>hash2</key>
 			<data>
-			VkelzrG8Kuv+tr/kUIl+vuviJ8HN2lva55atmSO9r6A=
+			Xsgm2dBly62EneiB04ryti89smi53XIXAOtYLFyW4ZE=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GppB8PhBSInv7zFg7eYcqNwZWXQ=
+			M3EBma1BpAxt7iGIjYcrm9BnNOc=
 			</data>
 			<key>hash2</key>
 			<data>
-			tkN5JJG6yN6ivA9JyljUiNPAUHZ189GU4IPEXdsKs1k=
+			qAlGOWS6ltLA/WrYd4Rz6EHPivttCiNu41NTW7ulBAI=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v6itdPCqWnawODUfQYc+nRyGDJY=
+			5EUn1qFgVTwSkfSLCubcLwgrx0c=
 			</data>
 			<key>hash2</key>
 			<data>
-			SuG0eC2epXej+0FOC+J+gltXGdKlh2SgWTAjCWbsFP0=
+			55ZdMLgNGz7Q67XNAv/M4f4uXy0R2d5+tlHRhlkL8t4=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
@@ -296,11 +296,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iStWmEB1q6TTpoeht5O8TSdKtb0=
+			Etc/8BPenX54rv1uBx24u4bnqTg=
 			</data>
 			<key>hash2</key>
 			<data>
-			inYnSzARwOiRjT2jEooaoBbVT1Ux8ckVmKUBouHF4mk=
+			Jh5i9giCFfo5GhN25CjMKdDJ6Kdlz/p4L95RITR+WeA=
 			</data>
 		</dict>
 		<key>Ionicons.ttf</key>
@@ -362,44 +362,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V0oQofBcZe18leLBfE4dwztLkUc=
+			Ck/HDbVOc9Efw1gkM2Vkro8NyQU=
 			</data>
 			<key>hash2</key>
 			<data>
-			kZSu2vwSzFIp/xZObWMqVr81QlZK67TPSV3b7QxHQyk=
+			0u582giOMQOZcXCGb0lFWPCUDWtuszZ3nkN4/PPgfgQ=
 			</data>
 		</dict>
 		<key>PlugIns/RideShareTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Gr/Db9GbP/YU1vOcgcxUlcfDpP4=
+			oszmsZTCVuzf7zgPIk6zTN0zu2o=
 			</data>
 			<key>hash2</key>
 			<data>
-			KFBDSf0xoB5dEkG7LbOqQ+TM7XZxJgUJ/UtGorkLMEY=
+			7cMHOITZq7Vvz1f/7zDzpQSneUQ+rK2sNKHFLglhe5E=
 			</data>
 		</dict>
 		<key>PlugIns/RideShareTests.xctest/RideShareTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QA0ap2ta+w6klWY34k7xJcNIWwk=
+			R5WX6jvpo3UzhjgfN3J2mlsGsA8=
 			</data>
 			<key>hash2</key>
 			<data>
-			WTkd0D2tEw/06C7r77jsjnW49WD5Xxmqf0olEg6YlpM=
+			HgVI8FCwjJeEu/+6SGGkL5b5FoUgNvS1hZmtJSBiU2I=
 			</data>
 		</dict>
 		<key>PlugIns/RideShareTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q1Up366Rbk0OVxfbjmA4udJOF/c=
+			iw32CBB+I/ExQ3v6OP+fkN3dJSQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			rRjyQ8qjZonC7OE3RwoOhPXghGmn4kwGRlMkGppCFGE=
+			0qVxEcyJeGV/6Nrxo8gWBSpjkkzB+msdMDefeu75nwg=
 			</data>
 		</dict>
 		<key>Roboto.ttf</key>

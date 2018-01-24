@@ -2,5 +2,9 @@
     {
         "merged": "/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/zhuboyuan/git/rideshare/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/zhuboyuan/git/rideshare_mine/frontend/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/res/xml/preferences.xml"
     }
 ]
